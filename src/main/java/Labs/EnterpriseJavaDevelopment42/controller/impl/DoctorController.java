@@ -1,6 +1,6 @@
-package Labs.EnterpriseJavaDevelopment42.contoller.impl;
+package Labs.EnterpriseJavaDevelopment42.controller.impl;
 
-import Labs.EnterpriseJavaDevelopment42.contoller.interfaces.IDoctorController;
+import Labs.EnterpriseJavaDevelopment42.controller.interfaces.IDoctorController;
 import Labs.EnterpriseJavaDevelopment42.enums.Status;
 import Labs.EnterpriseJavaDevelopment42.model.Doctor;
 import Labs.EnterpriseJavaDevelopment42.repository.DoctorRepository;

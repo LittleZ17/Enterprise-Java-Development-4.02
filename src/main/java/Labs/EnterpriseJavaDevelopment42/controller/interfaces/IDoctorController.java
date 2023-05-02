@@ -1,4 +1,4 @@
-package Labs.EnterpriseJavaDevelopment42.contoller.interfaces;
+package Labs.EnterpriseJavaDevelopment42.controller.interfaces;
 
 import Labs.EnterpriseJavaDevelopment42.enums.Status;
 import Labs.EnterpriseJavaDevelopment42.model.Doctor;
